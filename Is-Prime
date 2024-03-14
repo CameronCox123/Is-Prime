@@ -1,9 +1,8 @@
-# File: HW5
+# File: Is-Prime
 # Author: Cameron Cox
 # UT EID: cpc2526
 # Course: cs303E
-#
-# Date: 10/5/2023
+
 #Description of program: Determines if a number is prime
 
 # """
